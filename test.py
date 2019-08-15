@@ -17,7 +17,7 @@ print('################')
 
 
 user = 'hedda.klintskog@storytel.com'+'/token'
-pwd ='2b4u4AdWjlz5NNsNLsLETnC1WYqALiS7hRk3zMxr'
+
 
 
 params = {
